@@ -1,0 +1,10 @@
+.env
+logs/*
+!logs/.gitkeep
+plugins/*
+!plugins/.gitkeep
+
+__pycache__
+utils/connections.txt
+*.pyc
+.DS_Store
